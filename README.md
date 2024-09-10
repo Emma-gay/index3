@@ -37,4 +37,4 @@
 
 </font>
 <p>Este es un enlace a <a href="https://www.google.com" target="_blank"> Google.</a></p>
- <p>pagina <a href="https://emma-gay.github.io/index0/"> Inicial.</p>
+ <p>pagina <a href="https://emma-gay.github.io/index0/"> Inicial. </p>
